@@ -17,10 +17,10 @@
 ## ▶️ 実行方法
 
 ```bash
-python -m war_game_steps_step1_game  # 1回勝負
+python -m war_game.steps.step1_game  # 1回勝負
 ```
 ```bash
-python -m war_game_steps_step2_game  # 繰り返し勝負
+python -m war_game.steps.step2_game  # 繰り返し勝負
 ```
 
 ---
